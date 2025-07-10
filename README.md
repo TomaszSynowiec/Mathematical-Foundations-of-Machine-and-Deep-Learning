@@ -46,6 +46,6 @@ Przeanalizowano:
 
 ## 💻 Kod
 
- [Zobacz kod](regression_regularization.ipynb)
+ [Zobacz kod](Kod.ipynb)
 
 ---
